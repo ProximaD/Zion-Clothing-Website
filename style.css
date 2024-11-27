@@ -1,1 +1,19 @@
+/*========================================= GOOGLE FONT ============================================*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Space+Grotesk&display=swap');
 
+/*========================================= VARIABLE CSS ============================================*/
+:root{
+  --header-height: 3rem;
+  --font-semi-bold: 600;
+  --font-bold: 700;
+}
+
+/*========================================= COLORS ============================================*/
+:root{
+  --first-color: #E55947;
+  --first-color-alt: #D2321E;
+  --white-color: #FAFAFF;
+  --black-color: #101010;
+  --black-color-alt: #606060;
+  --grey-color: #F0F1F3;
+}
