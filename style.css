@@ -20,5 +20,10 @@
 
 /*========================================= FONT & TYPOGRAPHY ============================================*/
 :root{
-  
+  --body-font
+  --big-font-size
+  --h1-font-size
+  --h2-font-size
+  --normal-font-font
+  --small-font-size
 }
