@@ -20,10 +20,10 @@
 
 /*========================================= FONT & TYPOGRAPHY ============================================*/
 :root{
-  --body-font
-  --big-font-size
-  --h1-font-size
-  --h2-font-size
-  --normal-font-font
-  --small-font-size
+  --body-font:"Open Sans", serif;
+  --big-font-size:3rem;
+  --h1-font-size: 1.5rem;
+  --h2-font-size: 1.25rem;
+  --normal-font-font: .938rem;
+  --small-font-size: .75rem;
 }
