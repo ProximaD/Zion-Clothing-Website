@@ -89,6 +89,17 @@ img{
   height: auto;
 }
 
+/*========================================= CLASS CSS ============================================*/
+.section{
+  padding: 3rem 0;
+}
+
+.section-title{
+  font-size: var(--h2-font-size);
+  color: var(--black-color);
+  margin: var(--mb-4) 0 var(--mb-1);
+  text-align: center;
+}
 
 
 
