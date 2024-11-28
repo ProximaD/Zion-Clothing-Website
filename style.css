@@ -155,6 +155,18 @@ img{
   margin-bottom: var(--mb-4);
 }
 
+.nav__link{
+  color: var(--black-color);
+  font-weight: var(--font-semi-bold);
+}
+
+.nav__link:hover{
+  color: var(--first-color);
+}
+
+.nav__logo{
+  font-weight: var(--font-bold);
+}
 
 
 
