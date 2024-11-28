@@ -47,12 +47,27 @@
 }
 
 /*========================================= Z INDEX ============================================*/
-
+:root{
+  --z-tooltip: 10;
+  --z-fixed: 100;
+}
 
 /*========================================= BASE ============================================*/
+*, ::before, ::after{
+  box-sizing: border-box;
+}
 
+html{
+  scroll-behavior: smooth:
+}
 
-
+body{
+  margin: var(--header-height) 0 0 0;
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  color: var(--black-color);
+  line-height: 1.6;
+}
 
 
 
