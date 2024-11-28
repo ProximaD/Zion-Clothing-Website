@@ -152,7 +152,7 @@ img{
 }
 
 .nav__item{
-  margin-bottom:
+  margin-bottom: var(--mb-4);
 }
 
 
