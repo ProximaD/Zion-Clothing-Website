@@ -168,6 +168,15 @@ img{
   font-weight: var(--font-bold);
 }
 
+.nav__cart{
+  font-size: 1.5rem;
+  margin-right: var(--mb-2);
+}
+
+.nav__toggle{
+  font-size: 1.5rem;
+  cursor: pointer;
+}
 
 
 
