@@ -285,6 +285,13 @@ img{
   row-gap: 2rem;
 }
 
+.featured__product{
+  transition: .3s;
+}
+
+.featured__product:hover{
+  transform: translateY(-.5rem);
+}
 
 
 
