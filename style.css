@@ -340,7 +340,7 @@ img{
 .offer__title{
   font-size: var(--h1-font-size);
   letter-spacing: .2rem;
-  text-transformation: uppercase;
+  text-transform: uppercase;
   font-weight: var(--font-semi-bold);
 }
 
