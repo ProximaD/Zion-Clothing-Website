@@ -314,6 +314,16 @@ img{
   text-align: center;
 }
 
+.featured__name{
+  margin-bottom: var(--mb-1);
+  text-transform: uppercase;
+  font-size: var(--normal-font-size);
+}
+
+.featured__price{
+  color: var(--black-color-light);
+  font-weight: var(--font-semi-bold);
+}
 
 
 
