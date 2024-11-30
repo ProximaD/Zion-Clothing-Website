@@ -293,6 +293,12 @@ img{
   transform: translateY(-.5rem);
 }
 
+.featured__box{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-color: var(--grey-color);
+}
 
 
 
