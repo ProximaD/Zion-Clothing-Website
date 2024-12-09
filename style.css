@@ -390,7 +390,10 @@ img{
   color: var(--black-color-light);
 }
 
-
+.newsletter__form{
+  display: grid;
+  grid-template-columns: 1fr .5fr;
+}
 
 
 
