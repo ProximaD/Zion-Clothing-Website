@@ -386,6 +386,8 @@ img{
 
 .newsletter__description{
   margin-bottom: var(--mb-2);
+  font-size: var(--small-font-size);
+  color: var(--black-color-light);
 }
 
 
