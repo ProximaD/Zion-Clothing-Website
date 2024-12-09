@@ -379,8 +379,14 @@ img{
   transition: .3s;
 }
 
+/*========================================= NEWSLETTER ============================================*/
+.newsletter{
+  text-align: center;
+}
 
-
+.newsletter__description{
+  margin-bottom: var(--mb-2);
+}
 
 
 
