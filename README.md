@@ -2,7 +2,7 @@
 
 # Responsive-Zion-Clothing-Website
 
-Responsive-Cacti-website with:
+Responsive-Zion-Clothing-website with:
 1. Beautiful Zion Clothing Website using HTML5, CSS3 and JAVASCRIPT. 
 2. Engaging animations transitions when scrolling. 
 4. Developed first with the Mobile First methodology, then for desktop. 
