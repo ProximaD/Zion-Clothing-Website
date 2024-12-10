@@ -146,7 +146,7 @@ img{
     width: 80%;
     height: 100%;
     padding: 2rem;
-    background-color: (--white-color);
+    background-color: var(--white-color);
     transition:.5s
   }
 }
